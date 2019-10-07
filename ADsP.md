@@ -140,25 +140,25 @@
 ① 비즈니스 모델 캔버스 : 규제와 감사 - 업무 - 제품 - 고객 - 지원 인프라  
 ② KDD 분석 방법론 : 데이터 선택 → 전처리 → 변환 → 데이터 마이닝 → 결과 평가  
 ③ CRISP-DM 방법론 : 업무 이해 → 데이터 이해 → 데이터 준비 → 모델링 → 평가 → 전개  
- \- 데이터 이해 : 데이터 수집, 탐색, 기술 분석, 품질 확인  
- \- 데이터 준비 : 데이터 선택, 통합, 정제, 포매팅  
- \- 모델링 : 모델링 기법 선택, 모델 테스트 계획 설계, 모델 작성, 모델 평가  
- \- 평가 : 분석 결과 평가, 모델링 과정 평가, 모델 적용성 평가  
+&nbsp;\- 데이터 이해 : 데이터 수집, 탐색, 기술 분석, 품질 확인  
+&nbsp;\- 데이터 준비 : 데이터 선택, 통합, 정제, 포매팅  
+&nbsp;\- 모델링 : 모델링 기법 선택, 모델 테스트 계획 설계, 모델 작성, 모델 평가  
+&nbsp;\- 평가 : 분석 결과 평가, 모델링 과정 평가, 모델 적용성 평가  
 ④ 빅데이터 분석 방법론 : 분석 기획 → 데이터 준비 → 데이터 분석 → 시스템 구현 → 평가 및 전개  
   
   
 3. 분석 과제 발굴  
 ① 하향식 접근 방식 :  체계적 단계화, Why 관점, 문제 → 해법  
- Problem Discovery → Problem Definition → Solution Search → feasibility Study    
- \- Problem Discovery : 비즈니스 모델 기반 문제 탐색, 외부사례 기반 문제 탐색  
- \- Problem Definition : 데이터 분석 문제 변환  
- \- Solution Search : 수행 옵션 도출  
- \- Feasibility Study : 타당성 평가 → 과제선정  
+&nbsp;Problem Discovery → Problem Definition → Solution Search → feasibility Study    
+&nbsp;\- Problem Discovery : 비즈니스 모델 기반 문제 탐색, 외부사례 기반 문제 탐색  
+&nbsp;\- Problem Definition : 데이터 분석 문제 변환  
+&nbsp;\- Solution Search : 수행 옵션 도출  
+&nbsp;\- Feasibility Study : 타당성 평가 → 과제선정  
 ② 상향식 접근 방식 : What 관점   
- \- 데이터를 기반으로 문제 정의 및 해결방안 탐색  
- \- 데이터 → 분석 → 문제/통찰력/지식  
- \- 비지도 학습 방법 : 데이터 자체의 결합, 연관성, 유사성을 중심으로 접근  
- \- 프로토타이핑 접근법 : 시행착오를 통한 문제 해결, 신속하게 해결 모형 제시  
+&nbsp;\- 데이터를 기반으로 문제 정의 및 해결방안 탐색  
+&nbsp;\- 데이터 → 분석 → 문제/통찰력/지식  
+&nbsp;\- 비지도 학습 방법 : 데이터 자체의 결합, 연관성, 유사성을 중심으로 접근  
+&nbsp;\- 프로토타이핑 접근법 : 시행착오를 통한 문제 해결, 신속하게 해결 모형 제시  
   
 - - -     
   
@@ -177,9 +177,9 @@
 2. 4V  
 ![](https://postfiles.pstatic.net/MjAxOTEwMDdfMzAw/MDAxNTcwNDI4MTM0Mzg1.tqvuMBu9jarxfpelGrjbUrDSelVCOJrLwwJRA39Thtgg.eWC5w82A_Po3SGHAwTXW0zgIF7wiKJm1hudzXmGq-RAg.PNG.esak97/image.png?type=w966)  
 ① 3V(Volume, Variety, Velocity) : 투자비용(Investment)  
- \- 난이도 :  데이터 획득/저장/가공비용, 분석 적용 비용, 분석 수준  
+&nbsp;\- 난이도 :  데이터 획득/저장/가공비용, 분석 적용 비용, 분석 수준  
 ② Value : 비즈니스 효과(Return)  
- \- 시급성 : 전략적 중요도, 목표가치  
+&nbsp;\- 시급성 : 전략적 중요도, 목표가치  
 ![](https://postfiles.pstatic.net/MjAxOTEwMDdfMTgy/MDAxNTcwNDI4MTcwNzQ3.-Wk-Tlc6m657dZ1a0wVOcdPq4mtlu9JE-p7pipcFFb4g.4yZez60Qi0MnSwOPBBT3MyqWt6BuBXLLh8jPl5iKH3Ag.PNG.esak97/image.png?type=w966)  
   
     
