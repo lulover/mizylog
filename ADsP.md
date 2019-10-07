@@ -124,9 +124,7 @@
 ### 데이터 분석 기획    
   
 | :분석의방법(How)/분석의 대상(What): | :분석의 대상(What) O: | :분석의 대상(What) X: |  
-
 | :분석의방법(How) O: | :Optimization 최적화: | :Insight 통찰력: |  
-
 | :분석의방법(How) X: | :Solution 해결책: | :Discovery 발견: |  
     
     
