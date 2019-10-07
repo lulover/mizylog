@@ -114,3 +114,118 @@
 \- B2C : 기업과 고객  
 \- OLTP : 단순 자동화    
 \- OLAP : 정보위주처리  
+  
+- - -  
+  
+- - -  
+  
+## 2과목 데이터 분석 기획   
+    
+### 데이터 분석 기획    
+  
+| :분석의방법(How)/분석의 대상(What): | :분석의 대상(What) O: | :분석의 대상(What) X: |  
+
+| :분석의방법(How) O: | :Optimization 최적화: | :Insight 통찰력: |  
+
+| :분석의방법(How) X: | :Solution 해결책: | :Discovery 발견: |  
+    
+    
+1. 분석 기획 시 고려사항  
+\- 분석의 기본이 되는 데이터에 대한 고려  
+\- 분석을 통해 가치창출되는 적절한 활용방안과 유즈케이스 탐색  
+\- 분석 수행시 발생 가능한 장애요소와 대책에 대한 사전 계획 수립  
+  
+  
+2.분석방법론  
+\- 폭포수 모델 : 순차  
+\- 나선형 모델 : 반복  
+\- 프로토타입 모델 : 개선  
+① 비즈니스 모델 캔버스 : 규제와 감사 - 업무 - 제품 - 고객 - 지원 인프라  
+② KDD 분석 방법론 : 데이터 선택 → 전처리 → 변환 → 데이터 마이닝 → 결과 평가  
+③ CRISP-DM 방법론 : 업무 이해 → 데이터 이해 → 데이터 준비 → 모델링 → 평가 → 전개  
+ \- 데이터 이해 : 데이터 수집, 탐색, 기술 분석, 품질 확인  
+ \- 데이터 준비 : 데이터 선택, 통합, 정제, 포매팅  
+ \- 모델링 : 모델링 기법 선택, 모델 테스트 계획 설계, 모델 작성, 모델 평가  
+ \- 평가 : 분석 결과 평가, 모델링 과정 평가, 모델 적용성 평가  
+④ 빅데이터 분석 방법론 : 분석 기획 → 데이터 준비 → 데이터 분석 → 시스템 구현 → 평가 및 전개  
+  
+  
+3. 분석 과제 발굴  
+① 하향식 접근 방식 :  체계적 단계화, Why 관점, 문제 → 해법  
+ Problem Discovery → Problem Definition → Solution Search → feasibility Study    
+ \- Problem Discovery : 비즈니스 모델 기반 문제 탐색, 외부사례 기반 문제 탐색  
+ \- Problem Definition : 데이터 분석 문제 변환  
+ \- Solution Search : 수행 옵션 도출  
+ \- Feasibility Study : 타당성 평가 → 과제선정  
+② 상향식 접근 방식 : What 관점   
+ \- 데이터를 기반으로 문제 정의 및 해결방안 탐색  
+ \- 데이터 → 분석 → 문제/통찰력/지식  
+ \- 비지도 학습 방법 : 데이터 자체의 결합, 연관성, 유사성을 중심으로 접근  
+ \- 프로토타이핑 접근법 : 시행착오를 통한 문제 해결, 신속하게 해결 모형 제시  
+  
+- - -     
+  
+### 분석 마스터 플랜   
+  
+\- 분석기획 : 단기적 분석과제 도출 → 프로젝트화, 관리 → 분석결과를 도출  
+\- 분석 마스터 플랜 : 중장기적/지속적 분석과제 수행, 거버넌스 체계  
+\- 데이터 분석 기법 : 데이터 처리, 시각화, 공간분석, 탐색적자료분석(EDA), 데이터마이닝, 시뮬레이션, 최적화  
+  
+  
+1. 과제 우선순위 평가기준   
+① 전략적 중요도 : 전략적 필요성, 시급성  
+② 실행 용이성 : 투자 용이성, 기술 용이성  
+  
+  
+2. 4V  
+![](https://postfiles.pstatic.net/MjAxOTEwMDdfMzAw/MDAxNTcwNDI4MTM0Mzg1.tqvuMBu9jarxfpelGrjbUrDSelVCOJrLwwJRA39Thtgg.eWC5w82A_Po3SGHAwTXW0zgIF7wiKJm1hudzXmGq-RAg.PNG.esak97/image.png?type=w966)  
+① 3V(Volume, Variety, Velocity) : 투자비용(Investment)  
+ \- 난이도 :  데이터 획득/저장/가공비용, 분석 적용 비용, 분석 수준  
+② Value : 비즈니스 효과(Return)  
+ \- 시급성 : 전략적 중요도, 목표가치  
+![](https://postfiles.pstatic.net/MjAxOTEwMDdfMTgy/MDAxNTcwNDI4MTcwNzQ3.-Wk-Tlc6m657dZ1a0wVOcdPq4mtlu9JE-p7pipcFFb4g.4yZez60Qi0MnSwOPBBT3MyqWt6BuBXLLh8jPl5iKH3Ag.PNG.esak97/image.png?type=w966)  
+  
+    
+3. 기업의 데이터 기반 의사결정 방해   
+\- 고정관념  
+\- 편향된 사고  
+\- 프레이밍 효과  
+  
+  
+4. 분석 성숙도 모델  
+\- 도입단계(구축), 활용단계(적용), 확산(공유), 최적화(진화, 혁신 기여)  
+![](https://postfiles.pstatic.net/MjAxOTEwMDdfMTg5/MDAxNTcwNDI4MDk3NDIy.Y1omzQXOWy-KHuEykmnatzG3mCph_sWGGa8nYTZaSOAg.A3M8ym2gQgAWj2wT-j6EPjal8yao0ixnthZ0q_VCaMEg.PNG.esak97/image.png?type=w966)  
+  
+  
+5. 데이터 거버넌스  
+\- 표준화된 관리체계를 수립하고 운영을 위한 프레임워크 및 저장소를 구축  
+\- 마스터데이터, 메타데이터, 데이터 사전  
+\- 원칙(지침, 가이드), 조직(역할과 책임), 프로세스( 활동과 체계)  
+① 데이터 표준화  
+② 데이터 관리체계  
+③ 데이터 저장소 관리  
+④ 표준화 활동  
+  
+  
+6. 데이터 조직  
+① 집중구조  
+![](https://postfiles.pstatic.net/MjAxOTEwMDdfMjg4/MDAxNTcwNDI3OTc3NDQy.42dOpP67GEUNyLBZw7XlZ6LuDHoA7zn5k-rF4dW0DqIg.OscG6fCkJHDVBc4OVC8C2mmiGWqiNJusSo4yyfyhvvsg.PNG.esak97/image.png?type=w966)  
+ \- 별도의 분석 전담조직  
+ \- 전략적중요도에 따른 우선순위  
+② 기능구조    
+![](https://postfiles.pstatic.net/MjAxOTEwMDdfMTAg/MDAxNTcwNDI3OTk0MDUw.8se-mk86cDFmZox-9sL1BYR5EJL6z1KDKhKdF12QA2Qg.rkR-aFnfNC1CmMhOdqwDmiiSlKwuS9yyWkB9MM_cPTkg.PNG.esak97/image.png?type=w966)  
+ \- 별도 분석조직 X, 해당 부서에서 분석 수행  
+ \- 전시적 핵심분석이 어렵다.  
+ \- 과거 실적에 국한된 분석가능성 높음  
+③ 분산구조   
+![](https://postfiles.pstatic.net/MjAxOTEwMDdfMjg4/MDAxNTcwNDI4MDAxMDgx.QjCsDeAyQK1TFiG78hBLi_ubc_TR-hUL2PmP5CDxJTAg.hlrKaZsqUFgtnMEHozVSFNCzXhyWeXHNG-c2-DN3_3Qg.PNG.esak97/image.png?type=w966)  
+ \- 분석조직 인력들을 현업부서로 직접 배치하여 분석 수행  
+ \- 전시차원의 우선순위 수행  
+ \- 분석결과에 따른 신속한 Action 기능  
+ \- Best Practice 공유가능  
+
+
+    
+   
+
+
